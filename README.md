@@ -1,0 +1,5 @@
+http://solveme.kr/probs/24/d1c47e92af8c3db5fa3761d85770468a/
+
+The problem is the classic php strcmp() problem, of sending the parameters username and password as arrays instead of strings and you can se the flag.
+
+The flag is "HappI3st_*********_1ifE"
